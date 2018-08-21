@@ -1,11 +1,11 @@
 # Site settings
-author: Corbin B
-title: 
+author: Corbin Black
+title: The Way It Goes
 header-img: img/home-bg.png
 email: coblack513@gmail.com
-copyright_name: Corbin B
+copyright_name: Corbin Black
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Click. Clack. CABlack.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Coblack
